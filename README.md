@@ -1,4 +1,4 @@
-### **:v: Hi friend. My name is Pavel and i'm try to be a web-developer.:wink:**
+### **:v: Hi friend. My name is Pavel and i'm try to be a good web-developer.:wink:**
 
   :mailbox_with_mail: How to reach me: https://t.me/kermit_kvebit , pe19950520@yandex.ru
 
