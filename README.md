@@ -1,6 +1,6 @@
 ### **:v: Привет, меня зовут Павел и я начинающий веб-разработчик:wink:**
 
-  :mailbox_with_mail: How to reach me: https://t.me/kermit_kvebit , pe19950520@yandex.ru
+  :mailbox_with_mail: Со мной можно связаться: https://t.me/kermit_kvebit , pe19950520@yandex.ru
 
 
 **:sunglasses: Мой стэк:**
