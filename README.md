@@ -1,9 +1,9 @@
-### **:v: Hi friend. My name is Pavel and i'm try to be a good web-developer.:wink:**
+### **:v: Привет, меня зовут Павел и я начинающий веб-разработчик:wink:**
 
   :mailbox_with_mail: How to reach me: https://t.me/kermit_kvebit , pe19950520@yandex.ru
 
 
-**:sunglasses: My stack:**
+**:sunglasses: Мой стэк:**
 
 ![JS](https://camo.githubusercontent.com/c21090ec76ab4bb2ea7130705e36bacf543439837a1f0de01f18d5fa22e6976b/68747470733a2f2f736869656c64732e696f2f62616467652f2d4a6176615f5363726970742d4637444631453f6c6f676f3d6a617661736372697074267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d323232)
 ![CSS](https://camo.githubusercontent.com/7e4bf3a6d698975211e2fb6814dbd0177f0fe78409e6111dbd4c6d24c1a9efbc/68747470733a2f2f736869656c64732e696f2f62616467652f2d435353332d3135373242363f6c6f676f3d63737333267374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d666666)
