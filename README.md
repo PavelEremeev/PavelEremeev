@@ -1,10 +1,10 @@
-### **:v: Привет, меня зовут Паша и я веб-разработчик:wink:**
+### **:v: Hi, my name is Pavel and i'm front-end developer :wink:**
 
-  :mailbox_with_mail: Со мной можно связаться: https://t.me/kermit_kvebit , pe19950520@yandex.ru
+  :mailbox_with_mail: You can contact me: https://t.me/kermit_kvebit , pe19950520@yandex.ru
 
 
 
-### :sunglasses: Мой стек:
+### :sunglasses: Мy stack:
 
 <p align="left"> 
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
